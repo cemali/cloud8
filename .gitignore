@@ -1,5 +1,9 @@
 .htaccess
+.csslintrc
+.gitattributes
+.eslintrc
 sites/*/setting.php
 sites/*/services.yml
 sites/*/files
 sites/*/private
+
