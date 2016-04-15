@@ -1,0 +1,5 @@
+.htaccess
+sites/*/setting.php
+sites/*/services.yml
+sites/*/files
+sites/*/private
